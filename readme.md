@@ -6,7 +6,7 @@ This repository contains examples and usage demonstrations of various Standard T
 
 - [Array](./Containers/Array.cpp)
 - [Vector](./Containers/Vector.cpp)
-- [Deque](./Containers/Deque.cpp)
+- [Deque](./Containers/deque.cpp)
 - [List](./Containers/List.cpp)
 - [Set](./Containers/Set.cpp)
 - [Map](./Containers/Map.cpp)
