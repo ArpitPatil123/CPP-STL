@@ -4,16 +4,16 @@ This repository contains examples and usage demonstrations of various Standard T
 
 ## Table of Contents
 
-- [Array](./array/README.md)
-- [Vector](./vector/README.md)
-- [Deque](./deque/README.md)
-- [List](./list/README.md)
-- [Set](./set/README.md)
-- [Map](./map/README.md)
-- [Stack](./stack/README.md)
-- [Queue](./queue/README.md)
-- [Priority Queue](./priority_queue/README.md)
-- [Algorithms](./algorithms/README.md)
+- [Array](./Containers/Array.cpp)
+- [Vector](./Containers/Vector.cpp)
+- [Deque](./Containers/Deque.cpp)
+- [List](./Containers/List.cpp)
+- [Set](./Containers/Set.cpp)
+- [Map](./Containers/Map.cpp)
+- [Stack](./Containers/Stack.cpp)
+- [Queue](./Containers/Queue.cpp)
+- [Priority Queue](./Containers/PriorityQueue.cpp)
+- [Algorithms](./Algorithms/Algorithms.cpp)
 
 ## Purpose
 
